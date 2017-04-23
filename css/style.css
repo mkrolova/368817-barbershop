@@ -11,7 +11,6 @@ body {
   line-height: 42px;
   color: #000000;
   font-weight: bold;
-  font-family: "PTSans NarrowBold";
 }
 
 .subtitle {
@@ -19,5 +18,4 @@ body {
   line-height: 30px;
   color: #000000;
   font-weight: bold;
-  font-family: "PTSans NarrowBold";
 }
